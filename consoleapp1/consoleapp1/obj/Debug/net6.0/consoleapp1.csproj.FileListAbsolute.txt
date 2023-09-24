@@ -1,0 +1,14 @@
+C:\Users\anoj1\source\repos\consoleapp1\consoleapp1\bin\Debug\net6.0\consoleapp1.exe
+C:\Users\anoj1\source\repos\consoleapp1\consoleapp1\bin\Debug\net6.0\consoleapp1.deps.json
+C:\Users\anoj1\source\repos\consoleapp1\consoleapp1\bin\Debug\net6.0\consoleapp1.runtimeconfig.json
+C:\Users\anoj1\source\repos\consoleapp1\consoleapp1\bin\Debug\net6.0\consoleapp1.dll
+C:\Users\anoj1\source\repos\consoleapp1\consoleapp1\bin\Debug\net6.0\consoleapp1.pdb
+C:\Users\anoj1\source\repos\consoleapp1\consoleapp1\obj\Debug\net6.0\consoleapp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anoj1\source\repos\consoleapp1\consoleapp1\obj\Debug\net6.0\consoleapp1.AssemblyInfoInputs.cache
+C:\Users\anoj1\source\repos\consoleapp1\consoleapp1\obj\Debug\net6.0\consoleapp1.AssemblyInfo.cs
+C:\Users\anoj1\source\repos\consoleapp1\consoleapp1\obj\Debug\net6.0\consoleapp1.csproj.CoreCompileInputs.cache
+C:\Users\anoj1\source\repos\consoleapp1\consoleapp1\obj\Debug\net6.0\consoleapp1.dll
+C:\Users\anoj1\source\repos\consoleapp1\consoleapp1\obj\Debug\net6.0\refint\consoleapp1.dll
+C:\Users\anoj1\source\repos\consoleapp1\consoleapp1\obj\Debug\net6.0\consoleapp1.pdb
+C:\Users\anoj1\source\repos\consoleapp1\consoleapp1\obj\Debug\net6.0\consoleapp1.genruntimeconfig.cache
+C:\Users\anoj1\source\repos\consoleapp1\consoleapp1\obj\Debug\net6.0\ref\consoleapp1.dll
