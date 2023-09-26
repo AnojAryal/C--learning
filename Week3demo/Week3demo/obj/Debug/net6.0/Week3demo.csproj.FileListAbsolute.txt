@@ -1,0 +1,14 @@
+C:\Users\anoj1\source\repos\Week3demo\Week3demo\bin\Debug\net6.0\Week3demo.exe
+C:\Users\anoj1\source\repos\Week3demo\Week3demo\bin\Debug\net6.0\Week3demo.deps.json
+C:\Users\anoj1\source\repos\Week3demo\Week3demo\bin\Debug\net6.0\Week3demo.runtimeconfig.json
+C:\Users\anoj1\source\repos\Week3demo\Week3demo\bin\Debug\net6.0\Week3demo.dll
+C:\Users\anoj1\source\repos\Week3demo\Week3demo\bin\Debug\net6.0\Week3demo.pdb
+C:\Users\anoj1\source\repos\Week3demo\Week3demo\obj\Debug\net6.0\Week3demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anoj1\source\repos\Week3demo\Week3demo\obj\Debug\net6.0\Week3demo.AssemblyInfoInputs.cache
+C:\Users\anoj1\source\repos\Week3demo\Week3demo\obj\Debug\net6.0\Week3demo.AssemblyInfo.cs
+C:\Users\anoj1\source\repos\Week3demo\Week3demo\obj\Debug\net6.0\Week3demo.csproj.CoreCompileInputs.cache
+C:\Users\anoj1\source\repos\Week3demo\Week3demo\obj\Debug\net6.0\Week3demo.dll
+C:\Users\anoj1\source\repos\Week3demo\Week3demo\obj\Debug\net6.0\refint\Week3demo.dll
+C:\Users\anoj1\source\repos\Week3demo\Week3demo\obj\Debug\net6.0\Week3demo.pdb
+C:\Users\anoj1\source\repos\Week3demo\Week3demo\obj\Debug\net6.0\Week3demo.genruntimeconfig.cache
+C:\Users\anoj1\source\repos\Week3demo\Week3demo\obj\Debug\net6.0\ref\Week3demo.dll
