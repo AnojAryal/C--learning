@@ -1,0 +1,14 @@
+C:\Users\anoj1\source\repos\FileI0\FileI0\obj\Debug\net6.0\FileIO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anoj1\source\repos\FileI0\FileI0\obj\Debug\net6.0\FileIO.AssemblyInfoInputs.cache
+C:\Users\anoj1\source\repos\FileI0\FileI0\obj\Debug\net6.0\FileIO.AssemblyInfo.cs
+C:\Users\anoj1\source\repos\FileI0\FileI0\obj\Debug\net6.0\FileIO.csproj.CoreCompileInputs.cache
+C:\Users\anoj1\source\repos\FileI0\FileI0\bin\Debug\net6.0\FileIO.exe
+C:\Users\anoj1\source\repos\FileI0\FileI0\bin\Debug\net6.0\FileIO.deps.json
+C:\Users\anoj1\source\repos\FileI0\FileI0\bin\Debug\net6.0\FileIO.runtimeconfig.json
+C:\Users\anoj1\source\repos\FileI0\FileI0\bin\Debug\net6.0\FileIO.dll
+C:\Users\anoj1\source\repos\FileI0\FileI0\bin\Debug\net6.0\FileIO.pdb
+C:\Users\anoj1\source\repos\FileI0\FileI0\obj\Debug\net6.0\FileIO.dll
+C:\Users\anoj1\source\repos\FileI0\FileI0\obj\Debug\net6.0\refint\FileIO.dll
+C:\Users\anoj1\source\repos\FileI0\FileI0\obj\Debug\net6.0\FileIO.pdb
+C:\Users\anoj1\source\repos\FileI0\FileI0\obj\Debug\net6.0\FileIO.genruntimeconfig.cache
+C:\Users\anoj1\source\repos\FileI0\FileI0\obj\Debug\net6.0\ref\FileIO.dll
