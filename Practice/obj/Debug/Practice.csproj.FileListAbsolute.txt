@@ -1,0 +1,14 @@
+B:\learning\C#\Practices\Practice\bin\Debug\Practice.exe.config
+B:\learning\C#\Practices\Practice\bin\Debug\Practice.exe
+B:\learning\C#\Practices\Practice\bin\Debug\Practice.pdb
+B:\learning\C#\Practices\Practice\obj\Debug\Practice.csproj.AssemblyReference.cache
+B:\learning\C#\Practices\Practice\obj\Debug\Practice.MainWindow.resources
+B:\learning\C#\Practices\Practice\obj\Debug\Practice.Properties.Resources.resources
+B:\learning\C#\Practices\Practice\obj\Debug\Practice.csproj.GenerateResource.cache
+B:\learning\C#\Practices\Practice\obj\Debug\Practice.csproj.CoreCompileInputs.cache
+B:\learning\C#\Practices\Practice\obj\Debug\Practice.exe
+B:\learning\C#\Practices\Practice\obj\Debug\Practice.pdb
+B:\learning\C#\Practices\Practice\obj\Debug\Practice.Lift.resources
+B:\learning\C#\Practices\Practice\obj\Debug\Practice.Form3.resources
+B:\learning\C#\Practices\Practice\obj\Debug\Practice.Form4.resources
+B:\learning\C#\Practices\Practice\obj\Debug\Practice.Form5.resources
