@@ -16,3 +16,5 @@ C:\Users\anoj1\source\repos\SecBGUI\SecBGUI\obj\Debug\net6.0-windows\SecBGUI.pdb
 C:\Users\anoj1\source\repos\SecBGUI\SecBGUI\obj\Debug\net6.0-windows\SecBGUI.genruntimeconfig.cache
 C:\Users\anoj1\source\repos\SecBGUI\SecBGUI\obj\Debug\net6.0-windows\ref\SecBGUI.dll
 C:\Users\anoj1\source\repos\SecBGUI\SecBGUI\obj\Debug\net6.0-windows\SecBGUI.Form2.resources
+C:\Users\anoj1\source\repos\SecBGUI\SecBGUI\obj\Debug\net6.0-windows\SecBGUI.Form3.resources
+C:\Users\anoj1\source\repos\SecBGUI\SecBGUI\obj\Debug\net6.0-windows\SecBGUI.Form4.resources
