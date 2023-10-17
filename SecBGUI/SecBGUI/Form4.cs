@@ -238,6 +238,76 @@ namespace SecBGUI
             }
         }
 
+        private void textBox1_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            try
+            {
+                // Specify the absolute file path
+                string filePath = @"C:\Users\anoj1\source\repos\data.txt";
+
+                if (File.Exists(filePath))
+                {
+                    // Read all numbers from the file
+                    List<int> numbers = new List<int>();
+                    using (StreamReader reader = new StreamReader(filePath))
+                    {
+                        string line;
+                        while ((line = reader.ReadLine()) != null)
+                        {
+                            if (int.TryParse(line, out int number))
+                            {
+                                numbers.Add(number);
+                            }
+                        }
+                    }
+
+                    if (numbers.Count > 0)
+                    {
+                        // Get the number from the TextBox
+                        if (int.TryParse(textBox1.Text, out int numberToCheck))
+                        {
+                            // Check if the number exists in the list
+                            bool numberExists = numbers.Contains(numberToCheck);
+
+                            if (numberExists)
+                            {
+                                MessageBox.Show($"{numberToCheck} exists in the file.");
+                            }
+                            else
+                            {
+                                MessageBox.Show($"{numberToCheck} does not exist in the file.");
+                            }
+                        }
+                        else
+                        {
+                            MessageBox.Show("Please enter a valid number in the TextBox.");
+                        }
+                    }
+                    else
+                    {
+                        MessageBox.Show("No valid numbers found in the file.");
+                    }
+                }
+                else
+                {
+                    MessageBox.Show("The file does not exist at the specified path.");
+                }
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show("An error occurred: " + ex.Message);
+            }
+        }
+
+        private void button7_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
     }
 
 }
